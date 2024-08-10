@@ -15,7 +15,7 @@
 - <b style="color:#5ce30b;">Node.js</b>: Proficient in building scalable server-side applications.
 - <b style="color:#5ce30b;">Python</b>, <b style="color:#5ce30b;">Django</b>: Experienced in backend development.
 - <b style="color:#5ce30b;">PHP</b>, <b style="color:#5ce30b;">WordPress</b>: Familiarity with content management systems.
-- <b style="color:#5ce30b;">Figma</b>: Proficient in UI/UX design and prototyping.
+- <b style="color:#5ce30b;">Figma</b>: Proficient in UI/UX design.
 
 🚀 <b>Open source</b> enthusiast. Continuously learning and engaging with the tech community.
 </div>
