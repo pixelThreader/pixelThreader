@@ -32,7 +32,7 @@
 ## SKILLSET
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git&perline=5" />
 </p>
 
 ## Github Stats
