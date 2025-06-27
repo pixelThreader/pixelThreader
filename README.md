@@ -50,7 +50,7 @@
     <code>Stats</code>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pixelThreader-Web&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pixelThreader&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 
