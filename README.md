@@ -42,7 +42,7 @@
     <code>Streak</code>
 </p>
 <p align="center">
-   <img src="https://streak-stats-liart.vercel.app?user=pixelThreader&theme=synthwave" alt="GitHub Streak" />
+  <img src="https://streak-stats-liart.vercel.app?user=pixelThreader&theme=synthwave&short_numbers=true" />
 </p>
 
 
