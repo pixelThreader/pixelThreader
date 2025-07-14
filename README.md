@@ -42,7 +42,7 @@
     <code>Streak</code>
 </p>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=pixelThreader&theme=synthwave&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+   <img src="https://streak-stats-liart.vercel.app?user=pixelThreader&theme=synthwave" alt="GitHub Streak" />
 </p>
 
 
