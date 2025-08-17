@@ -1,5 +1,5 @@
 <div style="border-radius: 20px; overflow: hidden; width: fit-content; display: inline-block;">
-  <img src="./pixelThreader.png" alt="pixelThreader" />
+  <img src="./YoutubeBanner_4-1.png" alt="pixelThreader" />
 </div>
 
 <hr/>
