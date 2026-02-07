@@ -25,7 +25,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pixelthreader.in)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushRana5080)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pixelthreader)
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pixelThreader04)
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pixelThreader?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
@@ -39,24 +39,8 @@
 ## Github Stats
 
 <p align="center">
-    <code>Streak</code>
-</p>
-<p align="center">
-  <img src="https://streak-stats-liart.vercel.app?user=pixelThreader&theme=synthwave&short_numbers=true" />
-</p>
-
-
-<p align="center">
     <code>Stats</code>
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=pixelThreader" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-    <code>Languages</code>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelThreader&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-streak-stats-giepna0io-piyush-ranas-projects.vercel.app?user=pixelThreader&theme=synthwave&card_width=500" alt="GitHub Streak" />
 </p>
