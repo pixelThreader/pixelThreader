@@ -33,14 +33,5 @@
 ## SKILLSET
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git,linux,tensorflow&perline=5" />
-</p>
-
-## Github Stats
-
-<p align="center">
-    <code>Stats</code>
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats-giepna0io-piyush-ranas-projects.vercel.app?user=pixelThreader&theme=synthwave&card_width=500" alt="GitHub Streak" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git,linux,tensorflow,docker,mongodb,electron,fastapi,flask,latex,notion,postgres,postman,prisma,redis,vite,windows,ubuntu&perline=5" />
 </p>
