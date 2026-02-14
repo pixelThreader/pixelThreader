@@ -35,3 +35,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git,linux,tensorflow,docker,mongodb,electron,fastapi,flask,latex,notion,postgres,postman,prisma,redis,vite,windows,ubuntu&perline=5" />
 </p>
+
+## STATS
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelThreader" />
+
+
