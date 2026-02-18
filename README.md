@@ -37,6 +37,6 @@
 </p>
 
 ## STATS
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelThreader" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelThreader&theme=transparent&short_numbers=true" /></p>
 
 
