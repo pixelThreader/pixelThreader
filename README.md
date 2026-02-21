@@ -33,7 +33,7 @@
 ## SKILLSET
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git,linux,tensorflow,docker,mongodb,electron,fastapi,flask,latex,notion,postgres,postman,prisma,redis,vite,windows,ubuntu&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,jquery,python,django,php,figma,nextjs,react,appwrite,typescript,git,linux,tensorflow,docker,mongodb,electron,fastapi,flask,latex,notion,postgres,postman,prisma,redis,vite,windows,ubuntu,tanstack&perline=10" />
 </p>
 
 ## STATS
