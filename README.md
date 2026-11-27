@@ -2,8 +2,6 @@
   <img src="./YoutubeBanner_4-1.png" alt="pixelThreader" />
 </div>
 
-<hr/>
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pixelthreader.pro)
